@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "S9/lMjDM6MmE5AT71V6KUAYzxB74d1cxaVcHuTcAj+3HLiMTT4RE5BYY1I0G/D5P98RXLJKQGo2FfC4Wfs/rlQ==",
+  "success": true,
+  "projectFilePath": "/home/tanshaella/Documents/Game Project - POKER/Poker.csproj",
+  "expectedPackageFiles": [
+    "/home/tanshaella/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.19/microsoft.netcore.app.host.linux-x64.6.0.19.nupkg.sha512"
+  ],
+  "logs": []
+}
